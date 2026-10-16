@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # Fall Detector
 **Fall Detector** is a HarmonyOS application that monitors accelerometer and gyroscope data to detect potential fall events.
 It provides real-time sensor monitoring, configurable detection thresholds, a mock simulation mode for testing, and a fall history log.
